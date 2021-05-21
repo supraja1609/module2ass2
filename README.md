@@ -26,3 +26,9 @@ Search for malicious file in task manager if you found any suspected software ru
 
 Select a software which you want to update and proceed for updation.
 
+
+5.Giving permission:
+
+![giving permission](https://user-images.githubusercontent.com/83391098/119148587-41e8af00-ba6a-11eb-98c6-f18c0de32922.png)
+
+Select a folder which you want to change the permission which already exists select for properties and change the security permissions.
