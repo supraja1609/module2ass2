@@ -13,3 +13,9 @@ To clear your local space disk search for large unwanted files and delete it.
 
 Search for corrupted file in users program if you have any corrupted file in it we can delete it by selecting it.
 
+3.Giving endtask to malicious file:
+
+![malicious software](https://user-images.githubusercontent.com/83391098/119147852-98092280-ba69-11eb-9160-48ffb506b597.png)
+
+Search for malicious file in task manager if you found any suspected software running select and give end task.
+
