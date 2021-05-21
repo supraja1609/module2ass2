@@ -19,3 +19,10 @@ Search for corrupted file in users program if you have any corrupted file in it 
 
 Search for malicious file in task manager if you found any suspected software running select and give end task.
 
+
+4.Updating a software:
+
+![updating a software](https://user-images.githubusercontent.com/83391098/119148230-ec140700-ba69-11eb-960f-4df4fbe8847c.png)
+
+Select a software which you want to update and proceed for updation.
+
